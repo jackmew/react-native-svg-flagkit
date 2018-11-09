@@ -62,7 +62,11 @@ npm install
 
 ## Run react-native-svg-flatkit/TestFlagKit.js
 
-![TestFlagKit](https://www.dropbox.com/s/2s9tgzndjcdegww/Simulator%20Screen%20Shot%20-%20iPhone%20XS%20-%202018-11-09%20at%2011.59.44.png?dl=raw)
+<div align="center">
+    <img src="https://uc26ae691f8081f791186595c99c.dl.dropboxusercontent.com/cd/0/inline/AVKowNITFgjEJcRnV1Mkzz7H9wHQl5IqK5kCwdbYFtKsonlFZEGWz_JRjtQuRSZYv7S60fPRuItfXmfSeLwP3pVgnktz66Q31Iq_oQ8knfJRO4s7SjzMVeCVoLRk3k0-ZAoe4ronoAMV3fdD2Db1GnTyDlSBSjt9JQEhdjor0Vlp6uDDZTG3-3QtkLvZnd85FV4/file" 
+    height="609" width="281"
+    />
+</div>
 
 
 ## Todo

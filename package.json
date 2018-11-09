@@ -1,6 +1,6 @@
 {
   "name": "react-native-svg-flagkit",
-  "version": "0.9.2",
+  "version": "0.9.3",
   "description": "SVG flag for react-native",
   "main": "index.js",
   "repository": {
@@ -15,10 +15,10 @@
     "react-native",
     "react-native-svg",
     "FlagKit",
+    "flag",
     "ios",
     "android",
     "svg",
-    "flag",
     "國旗",
     "国旗"
   ],

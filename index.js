@@ -284,7 +284,8 @@ export const flagSvgs = [
     {
         code: 'AI',
         region: 'Anguilla',
-        component: Ai,
+        component: null,
+        // component: Ai,
         img: require('react-native-svg-flagkit/PNG/AI.png'),
     },
     {
