@@ -6,7 +6,7 @@
 import React, { Component } from 'react';
 import { View, Text, Image, TouchableOpacity } from 'react-native';
 import PropTypes from 'prop-types';
-import { getFlagByDollarCode } from 'zest-rhino-currency/components/flagKit'
+import { getFlagByDollarCode } from 'react-native-svg-flagkit'
 
 export default class Flag extends Component {
     static propTypes = {
