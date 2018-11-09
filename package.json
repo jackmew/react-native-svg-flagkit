@@ -1,0 +1,11 @@
+{
+  "name": "react-native-svg-flagkit",
+  "version": "0.9.0",
+  "description": "SVG flag for react-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
