@@ -7,7 +7,7 @@ Inspired from [FlagKit](https://github.com/madebybowtie/FlagKit) & [react-native
 ## Installation  
 
 ```
-npm install react-native-svg-flagkit
+npm install --save react-native-svg-flagkit
 ```
 
 react-native-svg-flagkit depends on [react-native-svg](https://github.com/react-native-community/react-native-svg).
