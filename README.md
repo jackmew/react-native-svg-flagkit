@@ -1,16 +1,20 @@
-# react-native-svg-flagkit
+# react-native-flagkit
 
-react-native-svg-flagkit provides 250 flags to easily use in react-native.  
+
+# react-native-flagkit is a fork from [react-native-svg-flagkit](https://github.com/jackmew/react-native-svg-flagkit/pull/3/files)
+I forked the repo to keep a mainted version up and running
+
+react-native-flagkit provides 250 flags to easily use in react-native.  
 Assets are all from [FlagKit](https://github.com/madebybowtie/FlagKit).  
 Inspired from [FlagKit](https://github.com/madebybowtie/FlagKit) & [react-native-svg](https://github.com/react-native-community/react-native-svg) & [svgr](https://github.com/smooth-code/svgr).
 
 ## Installation  
 
 ```
-npm install --save react-native-svg-flagkit
+npm install --save react-native-flagkit
 ```
 
-react-native-svg-flagkit depends on [react-native-svg](https://github.com/react-native-community/react-native-svg).
+react-native-flagkit depends on [react-native-svg](https://github.com/react-native-community/react-native-svg).
 
 ```
 react-native link react-native-svg
@@ -18,7 +22,7 @@ react-native link react-native-svg
 
 ## Usage
 ```javascript
-import { Flag } from 'react-native-svg-flagkit'
+import { Flag } from 'react-native-flagkit'
 
 export default class App extends Component {
   render() {
@@ -55,7 +59,7 @@ export default class App extends Component {
 ## Run example
 
 ```bash
-git clone git@github.com:jackmew/react-native-svg-flagkit.git
+git clone git@github.com:jackmew/react-native-flagkit.git
 cd example
 npm install
 ```
@@ -63,7 +67,7 @@ npm install
 ## Run react-native-svg-flatkit/example/TestFlagKit.js
 
 <div align="center">
-    <img src="https://github.com/jackmew/react-native-svg-flagkit/blob/master/screenshot/flagKitDemo.png?raw=true" 
+    <img src="https://github.com/jackmew/react-native-flagkit/blob/master/screenshot/flagKitDemo.png?raw=true" 
     height="609" width="281"
     />
 </div>

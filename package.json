@@ -1,15 +1,8 @@
 {
-  "name": "react-native-svg-flagkit",
-  "version": "0.9.5",
-  "description": "SVG flag for react-native",
+  "name": "react-native-flagkit",
+  "version": "0.0.2",
+  "description": "Flags for react-native",
   "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/jackmew/react-native-svg-flagkit"
-  },
-  "bugs": {
-    "url": "https://github.com/jackmew/react-native-svg-flagkit/issues"
-  },
   "keywords": [
     "react-component",
     "react-native",
@@ -18,16 +11,14 @@
     "flag",
     "ios",
     "android",
-    "svg",
-    "國旗",
-    "国旗"
+    "svg"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "react-native-svg": "^9.3.3"
+  "peerDependencies": {
+    "react-native-svg": "^12.1.0"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Frikan Erwe",
+  "license": "MIT"
 }
